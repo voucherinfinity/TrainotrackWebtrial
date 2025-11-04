@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\img\AWS\AWS_ML_Certificate\AWS SOL\" />
+    <Folder Include="wwwroot\img\the-linux-foundation\New folder\" />
+  </ItemGroup>
+
 </Project>
