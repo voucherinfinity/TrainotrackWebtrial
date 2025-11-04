@@ -2,7 +2,7 @@
 
 namespace TrainotrackWeb.Controllers
 {
-    public class RamController : Controller
+    public class HomeController1 : Controller
     {
         public IActionResult Index()
         {
